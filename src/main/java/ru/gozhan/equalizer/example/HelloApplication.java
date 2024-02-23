@@ -1,4 +1,4 @@
-package ru.gozhan.equalizer;
+package ru.gozhan.equalizer.example;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

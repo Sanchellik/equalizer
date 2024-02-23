@@ -1,4 +1,4 @@
-package ru.gozhan.equalizer;
+package ru.gozhan.equalizer.example;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

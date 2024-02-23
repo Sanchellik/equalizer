@@ -3,6 +3,6 @@ module ru.gozhan.equalizer {
     requires javafx.fxml;
 
 
-    opens ru.gozhan.equalizer to javafx.fxml;
-    exports ru.gozhan.equalizer;
+    opens ru.gozhan.equalizer.example to javafx.fxml;
+    exports ru.gozhan.equalizer.example;
 }

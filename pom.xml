@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ru.gozhan.equalizer/ru.gozhan.equalizer.HelloApplication
+                                ru.gozhan.equalizer/ru.gozhan.equalizer.example.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
